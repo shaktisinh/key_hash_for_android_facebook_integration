@@ -18,3 +18,6 @@ Put this code into your onCreate() method
                 catch (NoSuchAlgorithmException e) {
 
                 }
+
+
+Note: Please run signed application otherwise you might get wrong Key
